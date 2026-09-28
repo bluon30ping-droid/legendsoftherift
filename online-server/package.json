@@ -1,9 +1,0 @@
-{
-  "name": "legends-of-the-rift-online-server",
-  "version": "1.0.0",
-  "private": true,
-  "type": "module",
-  "scripts": {"start": "node server.js"},
-  "engines": {"node": ">=18"},
-  "dependencies": {"ws": "^8.18.0"}
-}
